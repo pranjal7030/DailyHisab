@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_View"
+        android:icon="@drawable/ic_autorenew_black_24dp"
+        android:title="Refresh" />
+
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@drawable/ic_add_to_photos_black_24dp"
+        android:title="Add Hisab" />
+    <item
+        android:id="@+id/navigation_deleteAll"
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:title="Delete All Hisab" />
+
+
+
+</menu>
